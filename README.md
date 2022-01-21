@@ -1,1 +1,1 @@
-# Span-sms-predictor
+# Spam-sms-predictor
